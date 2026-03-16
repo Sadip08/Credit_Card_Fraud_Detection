@@ -1,9 +1,6 @@
 data/
 *.csv
 data/
-.vscode/
+.vscode
 myenv
 report
-models
-notebooks/2_modeling.ipynb
-
